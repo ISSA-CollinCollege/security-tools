@@ -8,6 +8,6 @@ This repository is a space for the collaborative coding of security-related tool
 - For these reasons, we will not allow malware to be published on this page.
 
 ### Adding Files
-- To add files, first understand contribution requirements outlined in [CONTRIBUTING.md]"https://github.com/ISSA-CollinCollege/Getting-Started/blob/c20b7feaeafe7b25ac7eb1904b20eb071993e347/Getting-Started/CONTRIBUTING.md"
+- To add files, first understand contribution requirements outlined in [CONTRIBUTING.md](https://github.com/ISSA-CollinCollege/Getting-Started/blob/c20b7feaeafe7b25ac7eb1904b20eb071993e347/Getting-Started/CONTRIBUTING.md)
 - Fork the entire repo and add your files
 - Create a Pull Request and after code review, your project will be on this repository
